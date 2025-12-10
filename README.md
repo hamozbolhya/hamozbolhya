@@ -1,8 +1,11 @@
-# Hi, I'm Hamza Boulahia 👋
+<!-- Animated Header -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Hi,+I'm+Hamza+Boulahia+👋;Full+Stack+Engineer;React+&+React+Native+Specialist;AI/Cloud+Enthusiast" alt="Typing SVG" />
+  </a>
+</h1>
 
-**Full Stack Engineer | React & React Native Specialist | AI/Cloud Enthusiast**
-
-Building scalable, user-centric applications with modern technologies. Senior engineer with 4+ years of experience across fintech, banking, e-commerce, and enterprise solutions.
+**Building scalable, user-centric applications with modern technologies. Senior engineer with 4+ years of experience across fintech, banking, e-commerce, and enterprise solutions.**
 
 <div align="center">
 
@@ -153,11 +156,14 @@ Developed mobile and web applications for fintech and loyalty programs with mill
 
 ## 🎓 Education
 
-| Degree | Institution | Year |
-|--------|-------------|------|
-| **Master's** in Big Data & Cloud Computing | ENSET Mohammedia | 2023–2025 |
-| **Bachelor's** in Software Engineering | ESTEM Casablanca | 2021–2022 |
-| **Specialized Technician** in IT Development | NTIC 2 Sidi Maarouf | 2019–2020 |
+**Master's in Big Data & Cloud Computing**  
+*ENSET Mohammedia, Morocco* • 2023–2025
+
+**Bachelor's in Software Engineering**  
+*ESTEM Casablanca, Morocco* • 2021–2022
+
+**Specialized Technician in IT Development**  
+*NTIC 2 Sidi Maarouf, Morocco* • 2019–2020
 
 ---
 
