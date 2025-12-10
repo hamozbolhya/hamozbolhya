@@ -21,20 +21,25 @@
 
 ---
 
-## 📊 **About Me**
+# Welcome to my GitHub
+
+**REACT** | **REACT NATIVE** | **SPRING BOOT** | **TYPESCRIPT** | **AI/OCR** | **CLOUD** | **AWS**
+
+---
+
+## About Me
 
 <div align="center">
-<!-- Stats Card -->
-![Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=HamzaBoulahia&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
 
-<!-- Top Languages Card -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaBoulahia&layout=compact&theme=radical&hide_border=true&langs_count=8)
+<!-- GitHub Stats -->
+![Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=HamzaBoulahia&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&line_height=24)
 
-<!-- Streak Stats -->
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaBoulahia&layout=compact&theme=radical&hide_border=true&langs_count=6)
+
+<!-- GitHub Streak -->
 [![GitHub Streak](https://streak-stats.demolab.com/?user=HamzaBoulahia&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
-<!-- Activity Graph -->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HamzaBoulahia&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
 **Senior Full Stack Engineer** with **4+ years** of experience building scalable web and mobile applications across multiple industries including **banking, fintech, logistics, e-commerce, and telecom**. Currently pursuing a Master's in **Big Data & Cloud Computing** while leading development teams and integrating cutting-edge technologies like AI and OCR.
