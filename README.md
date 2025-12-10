@@ -152,20 +152,27 @@ Developed mobile and web applications for fintech and loyalty programs with mill
 - Mobile app for agricultural resource management and monitoring
 - Improved operational efficiency and data collection
 
----
+## 📚 **Education & Continuous Learning**
 
-## 🎓 Education
+<div align="center">
 
-**Master's in Big Data & Cloud Computing**  
-*ENSET Mohammedia, Morocco* • 2023–2025
+<!-- Education Timeline -->
+```mermaid
+timeline
+    title Education Timeline
+    section 2023-2025
+        Master's in Big Data<br>& Cloud Computing
+        : ENSET Mohammedia
+    section 2021-2022
+        Software Engineering<br>Bachelor's
+        : ESTEM Casablanca
+    section 2019-2020
+        Specialized Technician<br>in IT Development
+        : NTIC 2 Sidi Maarouf
+```
 
-**Bachelor's in Software Engineering**  
-*ESTEM Casablanca, Morocco* • 2021–2022
+</div>
 
-**Specialized Technician in IT Development**  
-*NTIC 2 Sidi Maarouf, Morocco* • 2019–2020
-
----
 
 ## 📊 Core Competencies
 
