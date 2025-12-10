@@ -60,7 +60,6 @@
 - ✅ **Modern & Creative Templates** - Multiple professionally designed layouts
 - ✅ **Real-time Preview** - See changes instantly as you edit
 - ✅ **Export Options** - PDF, DOCX, and plain text formats
-- ✅ **AI-Powered Suggestions** - Get intelligent content recommendations
 - ✅ **Responsive Design** - Works perfectly on all devices
 - ✅ **Dark/Light Mode** - Choose your preferred theme
 - ✅ **Cloud Storage** - Save and access your resumes from anywhere
