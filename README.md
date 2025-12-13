@@ -5,7 +5,7 @@
   </a>
 </h1>
 
-**Building scalable, user-centric applications with modern technologies. Senior engineer with 4+ years of experience across fintech, banking, e-commerce, and enterprise solutions.**
+**Building scalable, user-centric applications with modern technologies. Senior engineer with 5 years of experience across fintech, banking, e-commerce, and enterprise solutions.**
 
 <div align="center">
 
