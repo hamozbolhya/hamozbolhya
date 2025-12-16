@@ -50,11 +50,9 @@ Senior Full Stack Engineer with **4+ years** of proven expertise building produc
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ### Specialties
-![AI/ML](https://img.shields.io/badge/AI%2FML-FF6B6B?style=flat&logo=openai&logoColor=white)
 ![OCR](https://img.shields.io/badge/OCR-4285F4?style=flat&logo=google&logoColor=white)
 ![Image Processing](https://img.shields.io/badge/Image%20Processing-9C27B0?style=flat&logo=opencv&logoColor=white)
 
